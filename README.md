@@ -8,7 +8,12 @@ This project requires a MySQL database and environment variables.
 Database credentials and API keys are **not included for security reasons**. 
 Please configure your own environment to run the project.
 
-## Setup
+## Technologies
+- TypeScript
+- Node.js
+- Express
+- MySQL
 
+## Setup
 - Copy .env.example to .env and fill in your own credentials and JWT secret.
 - Import database.sql to create the required tables
